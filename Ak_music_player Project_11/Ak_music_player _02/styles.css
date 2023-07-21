@@ -14,12 +14,12 @@ body {
     margin: 30px auto;
     max-width:fit-content;
     padding: 20px;
-    /* border: 2px  aqua; */
+    border: 2px  aqua;
     border-radius: 5px;
     position: relative;
     overflow: hidden;
     display: block;
-    /* background-color:aqua; */
+    background-color:aqua;
 }
 
 .playlist {
